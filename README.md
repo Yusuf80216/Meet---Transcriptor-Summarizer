@@ -16,9 +16,9 @@ In the work from home scenario prevailing over the last 18 months and with hybri
 ## Website Installation :
 
 ```js
-    cd website
-    npm install
-    npm start
+cd website
+npm install
+npm start
 ```
 ### Transcription Model :
 To run transcription generator file:
