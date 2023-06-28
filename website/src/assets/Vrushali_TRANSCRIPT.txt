@@ -1,0 +1,369 @@
+
+SPEAKER 3 0:00:00
+Thank you so much for being here. Google Developer Student Clubs presents the third session of the Solution Challenge. Welcome, everyone, to UX UI Unplugged. We are very glad that you are here with us today. GDSC TechnoMains, Salt Lake, Kolkata, GDC AU, Hyderabad, GDSC FET JN, University Bangalore, GDSC MAIT Institute, Delhi, GDSC LPU, Punjab, and GDSC PCE, Mumbai are delighted to collaborate and host this session for all our design geeks. We truly hope this session will help motivate and guide you towards your goal and design dreams. Everybody here must be very excited for the Solution Challenge that is going to be taking place later. I do not need to brief you about that. We are all very excited. And I'm very glad that you're all here today to attend this session. And it is with my greatest delight that I invite our first speaker for the evening, a very renowned LinkedIn personality with a great experience in the field of UI UX design, Ms. Urvashi Kaushik. A user interface designer at Hybrid and the co-founder and design director at Graphic Studio, Ms. Urvashi Kaushik has truly made her mark in the field of design. Ma'am, we are so honored and grateful that you are here with us today. And we know that our students will be extremely motivated by your words and what you have to say about your journey in this field of design. 
+SPEAKER 2 0:01:33
+Thank you so much, Ishita, for this wonderful opportunity. I am also a student. I'm still learning and growing like these guys. So I will just try to keep this session short and straightforward 
+SPEAKER 1 0:01:48
+and knowledgeable for all of you. So if you say, can I start with the session? 
+SPEAKER 3 0:01:54
+Yes, ma'am. 
+SPEAKER 2 0:01:55
+OK, let me share my screen. 
+SPEAKER 1 0:02:06
+Is my screen visible to you? Yes, ma'am, it's visible. 
+SPEAKER 2 0:02:14
+So today in this session, I'm going to talk about how to get started in your UX career. I will share my UX journey, like how I started, so that you can get an idea how you can start yours. And also, I will give you a UX UI career roadmap that you can follow easily to start your own. 
+SPEAKER 1 0:02:36
+So without any further delay, let's get started. So first of all, wait a second. Yeah. 
+SPEAKER 2 0:02:47
+So first of all, let me introduce myself. I am Urvashi Kaushik, and I am working as a UI designer at Hybrid Design Studio. Before joining Hybrid, I have done a six-month internship 
+SPEAKER 1 0:03:00
+at Dance Design Studio. 
+SPEAKER 2 0:03:01
+And before that, I was in an early startup as a UX design intern. And apart from this, I also run a YouTube channel. And I upload videos about UX UI design and Figma tutorials. I am also a student, like you, and still learning. And I always try to improve myself, improve my UI design. 
+SPEAKER 1 0:03:24
+I don't call myself perfect. 
+SPEAKER 2 0:03:26
+I'm still learning. 
+SPEAKER 1 0:03:27
+I am still in the learning stage, like you. 
+SPEAKER 2 0:03:30
+So it's such a privilege for me to share my journey with you 
+SPEAKER 1 0:03:35
+people and give you tips on how you can get started. So I will just quickly jump to the next slide. So OK, this will be the agenda for this session. 
+SPEAKER 2 0:03:48
+First of all, I will share my UX journey. Then I will give you a simple UX roadmap. Then third, I will give you some tips on how you can get started. And then at the very end, I will take all your questions. 
+SPEAKER 1 0:04:05
+So let's get to it. So now I will just share my UX journey, like you. 
+SPEAKER 2 0:04:13
+So this is my UX journey, like how I started 
+SPEAKER 1 0:04:17
+and all those things. 
+SPEAKER 2 0:04:19
+So before starting my career in UX, I was a graphic designer. And yes, there is a thing I want to tell you, that I have completed my graduation from a completely different field of business analytics. And there were some subjects that were so difficult to understand. 
+SPEAKER 1 0:04:41
+So I just passed every exam. 
+SPEAKER 2 0:04:44
+So it all started when I was in my first year. I used to do illustration, digital art, Photoshop manipulation. 
+SPEAKER 1 0:04:51
+And this is where I began my journey. 
+SPEAKER 2 0:04:54
+I started uploading videos on digital art. If you see my YouTube channel, you 
+SPEAKER 1 0:04:58
+can see those videos at the very end. 
+SPEAKER 2 0:05:02
+After doing it for quite some time, I realized that it was not working out. I was not really enjoying what I was doing. 
+SPEAKER 1 0:05:10
+I kept it going because I don't have any options. 
+SPEAKER 2 0:05:13
+Then I saw some posts of the influencers about UX UI design on Instagram and became curious to learn more about it. I was like, this is something interesting 
+SPEAKER 1 0:05:24
+I want to learn more about. 
+SPEAKER 2 0:05:26
+I immediately started exploring it on YouTube videos 
+SPEAKER 1 0:05:30
+to learn at the very start. And then at the very early stage, 
+SPEAKER 2 0:05:37
+I thought UX UI design is all about designing UI. But I was wrong. When I started watching more videos, I came across to this thing that UX is a way bigger than what I think. So after this, I just decided to join a course or a boot camp. So I just joined a design school to pursue my four-month boot 
+SPEAKER 1 0:06:08
+camp. 
+SPEAKER 2 0:06:10
+Throughout the course, I learned various aspects of UX. And it was very useful for me because I learned so many 
+SPEAKER 1 0:06:16
+things in that boot camp. 
+SPEAKER 2 0:06:20
+Also, I did a UX case study. After completion, after course completion, I decided to devote some time to my skill development because I was not really satisfied with what 
+SPEAKER 1 0:06:33
+I was doing in that time. 
+SPEAKER 2 0:06:36
+I was not really satisfied with my designs, with my portfolio. So I decided that I should give some time 
+SPEAKER 1 0:06:43
+to my skill development. 
+SPEAKER 2 0:06:44
+So I took a daily UI challenge and made at least one design every day and started uploading YouTube videos simultaneously. 
+SPEAKER 1 0:06:53
+And now, when I look back to that time, 
+SPEAKER 2 0:06:56
+I think that was insane. I was managing YouTube, my college, my daily UI. And a few months after, I had to manage all this 
+SPEAKER 1 0:07:05
+with my full-time internship. 
+SPEAKER 2 0:07:07
+I was posting on LinkedIn regularly. And LinkedIn is a platform that helped me to get my job. 
+SPEAKER 1 0:07:14
+I will talk about this later. 
+SPEAKER 2 0:07:16
+And at that time, I took a UX challenge also for 20 days to enhance my UX skills as well. 
+SPEAKER 1 0:07:23
+But my UI skills improved dramatically. 
+SPEAKER 2 0:07:27
+Then when I completed my UI challenge, I didn't have, I didn't left practicing. So instead, I made a ritual of designing once in a week and recording a YouTube video while designing it. And because of that, my UI design skills improved much more, improved much more at that time. And I can also show you my first design and the design I have created a few days ago. 
+SPEAKER 1 0:07:57
+You can see the difference because of that consistency. 
+SPEAKER 2 0:08:02
+And this year, in January, I got an offer from Hybrid Design Studio. I joined as a UI designer. And I am loving what I'm doing right now. And I love with whom I am working with. 
+SPEAKER 1 0:08:14
+And it just feels right here. 
+SPEAKER 2 0:08:18
+This is all about my UX challenge. 
+SPEAKER 1 0:08:20
+So before I can jump to the next slide, 
+SPEAKER 2 0:08:23
+can you guys give me a little hands-up so that I know you are with me so far? 
+SPEAKER 1 0:08:31
+Thank you so much. 
+SPEAKER 2 0:08:34
+So now I will talk about the UX career roadmap. I will give you some simple steps that you can follow. So first of all, first step will be to learn the basics and get hands-on practice of UI tools, then enroll in UX course. Then step three will be build your skills and portfolio. 
+SPEAKER 1 0:08:54
+And step four will be to start applying for the entry-level job. So first step is to learn basics. 
+SPEAKER 2 0:09:11
+When I started my UX journey, I started with understanding the basics of UX UI design. You can do this. 
+SPEAKER 1 0:09:18
+You can do this by searching on YouTube. You can learn from good YouTube channels. 
+SPEAKER 2 0:09:26
+And also, you can take a free course at the early stage. I always recommend to take a free course, first of all, so that you can understand how things are working out 
+SPEAKER 1 0:09:36
+for you in this field. 
+SPEAKER 2 0:09:39
+Then familiarize yourself with design principles, user research, and all those things. First of all, what you have to do is understanding the basics. You can do this from YouTube videos. And also, try your hands on the tools as well, such as Sigma or Adobe XD and Sketch. Sketch is for Mac only, so you can just leave it. You can just start by learning Sigma or Adobe XD. They are pretty similar. 
+SPEAKER 1 0:10:07
+But you don't find any difficulty 
+SPEAKER 2 0:10:10
+in learning those things. 
+SPEAKER 1 0:10:11
+So this is the first step, understanding the basics. You can do this by YouTube videos, 
+SPEAKER 2 0:10:18
+or you can take up any free course. 
+SPEAKER 1 0:10:21
+That's what I've done. OK, let's move to the next slide. I have listed down some of the videos here. 
+SPEAKER 2 0:10:29
+You can check them out. I will share this PPT with you. 
+SPEAKER 1 0:10:36
+Now, next step would be to understand 
+SPEAKER 2 0:10:39
+and enroll yourself in any boot camp or a free course. Boot camp is a short-term intensive training course. Course is a kind of a, it can be long or it can be short. This is the difference between boot camp and course. 
+SPEAKER 1 0:10:54
+So in the next step, actually, what I have done, 
+SPEAKER 2 0:10:59
+I am just telling you what I have done while I started my UX learning. So in the next step, I will be showing you 
+SPEAKER 1 0:11:07
+how to do it. 
+SPEAKER 2 0:11:09
+So in the next step, what you have to do is, now you have understand the basics of UX UI design. Now enroll yourself in any good boot camp or a free course to understand every aspect of UX UI design. When you enroll in any course, you will learn everything in detail, every aspect of UX UI design in detail. When I was learning from YouTube videos, 
+SPEAKER 1 0:11:36
+I was not able to get the idea of it. So then I decided to join a course. 
+SPEAKER 2 0:11:43
+It will help me to understand the core concepts of UX design. So this is what you have to do. You can just enroll in any course. It's up to you if you enroll yourself in a paid course 
+SPEAKER 1 0:11:59
+or in a free course. 
+SPEAKER 2 0:12:01
+It's up to you. But enroll yourself in a course so that you can understand the core concepts of UX design. Are you with me, guys? 
+SPEAKER 1 0:12:14
+OK. 
+SPEAKER 2 0:12:18
+I have listed down some courses and boot camps here. You can check them out. 
+SPEAKER 1 0:12:25
+Now step three will be to build your portfolio. 
+SPEAKER 2 0:12:29
+Portfolio is the most important thing for any designer. So you have to build your portfolio 
+SPEAKER 1 0:12:35
+as attractive as possible. And also, build a case study. 
+SPEAKER 2 0:12:43
+Case study is a very important thing to do. So when you are building your portfolio, 
+SPEAKER 1 0:12:48
+always remember to include two to three case studies in your portfolio. 
+SPEAKER 2 0:12:58
+Because it will help the recruiters to understand your thought process and how you approach a given problem state. 
+SPEAKER 1 0:13:05
+It will greatly enhance your problem-solving skills when you do a UX case study. 
+SPEAKER 2 0:13:13
+So after you have got an idea of what UX is, 
+SPEAKER 1 0:13:15
+then the next step would be to build your portfolio 
+SPEAKER 2 0:13:17
+by practice and create your portfolio on Dribbble, Behance, 
+SPEAKER 1 0:13:21
+or on Notion. 
+SPEAKER 2 0:13:22
+Leave Notion because it's a bit complicated. 
+SPEAKER 1 0:13:24
+So you can start by creating an account on Dribbble or Behance. 
+SPEAKER 2 0:13:27
+Start creating projects and adding them to your portfolio. 
+SPEAKER 1 0:13:31
+Focus on your problem-solving skills. 
+SPEAKER 2 0:13:35
+Problem-solving skills are very important in this field. 
+SPEAKER 1 0:13:38
+So you have to focus on that and also your design process. So third step was to build your portfolio by adding your design and case studies. 
+SPEAKER 2 0:13:50
+I have listed down some ideas that will help you to build your portfolio. 
+SPEAKER 1 0:13:55
+Like I said, creating UX case studies. 
+SPEAKER 2 0:13:57
+They will help you to understand how you use UX research method to approach a given problem statement. And you can also take UI-UX challenges available online like this. Daily UI, I've given the link here, to improve your UI skills and crown UX challenge 
+SPEAKER 1 0:14:16
+to improve your UX skills. And also practice design on a daily basis. Practice with consistency is a key to success in any field. So always keep practicing. 
+SPEAKER 2 0:14:30
+It will greatly enhance your UI-UX design skills. 
+SPEAKER 1 0:14:35
+Never leave practice. Always practice. 
+SPEAKER 2 0:14:38
+Add your designs to your portfolio and keep it up to date. When you practice on a daily basis, it will improve your color sense and also 
+SPEAKER 1 0:14:48
+how you select certain layouts, icons, and forms. 
+SPEAKER 2 0:14:53
+So that's what you have to do when you are building a portfolio. Last step would be to start applying for entry-level jobs. And before you do that, always remember, I always recommend to everyone that start networking on LinkedIn. Create your account on LinkedIn, and you 
+SPEAKER 1 0:15:14
+don't have to do it now. 
+SPEAKER 2 0:15:16
+Start from the very beginning when you started your UX 
+SPEAKER 1 0:15:19
+career. Create your account and start posting whatever you feel like. 
+SPEAKER 2 0:15:26
+Use good hashtags and interact with other designers. Add them, and you can interact with them through comments, DM. And through posts, you can post their posts. 
+SPEAKER 1 0:15:40
+So what I was telling you is that start 
+SPEAKER 2 0:15:47
+networking on LinkedIn. It will really help you to get your dream job. I know some of you will not agree with me, but that worked out for me. I built my LinkedIn in two years of time. I posted regularly, and now my audience 
+SPEAKER 1 0:16:04
+has reached to 16,000 people. 
+SPEAKER 2 0:16:07
+16,000 people follow me on LinkedIn, and they love my content. So you have to be very consistent in that, 
+SPEAKER 1 0:16:14
+and also be patient while posting, 
+SPEAKER 2 0:16:17
+because it will not work overnight. 
+SPEAKER 1 0:16:19
+You have to be very patient. 
+SPEAKER 2 0:16:21
+So before start applying for any entry-level jobs, you have to start networking on LinkedIn. You can follow me, like how I did it. 
+SPEAKER 1 0:16:30
+You can just replicate what I did. 
+SPEAKER 2 0:16:33
+So this was the four steps, start applying for entry-level 
+SPEAKER 1 0:16:38
+jobs. 
+SPEAKER 2 0:16:38
+And before that, start networking on LinkedIn by posting your design and getting noticed. Now I will just give some tips so that you can just 
+SPEAKER 1 0:16:50
+start networking on LinkedIn. 
+SPEAKER 2 0:16:54
+Getting noticed on LinkedIn is the first thing you can do before you even begin looking for a job. 
+SPEAKER 1 0:17:00
+That's what I said earlier. 
+SPEAKER 2 0:17:01
+It will help you get your dream job in the future. Connect with other designers on LinkedIn. 
+SPEAKER 1 0:17:07
+Post your designs and work. Secondly, networking will help you in getting noticed, 
+SPEAKER 2 0:17:14
+and you have to do it when you are in a learning phase. You don't have to start at the very beginning. So networking will help you in getting noticed and get 
+SPEAKER 1 0:17:26
+your dream job. 
+SPEAKER 2 0:17:28
+Make sure your resume is intuitive, and your portfolio is up to date with your design so that you can start applying for the entry-level jobs. 
+SPEAKER 1 0:17:39
+And always include two to three case studies 
+SPEAKER 2 0:17:43
+in your portfolio. 
+SPEAKER 1 0:17:44
+It will really strengthen your portfolio. 
+SPEAKER 2 0:17:47
+So that was the four. 
+SPEAKER 1 0:17:50
+Jumping to the last slide, I want, 
+SPEAKER 2 0:17:56
+can you guys give me a little handsome once again 
+SPEAKER 1 0:17:58
+so that I know you are listening to me? Hello? Are you listening to me, guys? OK. Thank you. 
+SPEAKER 2 0:18:17
+Thank you very much. OK, this is the last slide in which I will give you 
+SPEAKER 1 0:18:25
+some quick tips that you can use to start your career. 
+SPEAKER 2 0:18:29
+It's not that it will not work out in any other career. 
+SPEAKER 1 0:18:32
+It will work out everywhere. So you just have to follow it. 
+SPEAKER 2 0:18:36
+Like, first of all, utilize your free time 
+SPEAKER 1 0:18:39
+by doing small and easy design tasks. 
+SPEAKER 2 0:18:44
+Assign yourself some simple tasks to do, like designing any button, navigation bar, or whatever it is. You can just assign yourself, like, 
+SPEAKER 1 0:18:53
+I have to learn this topic today, and like that. 
+SPEAKER 2 0:18:56
+So just assign yourself some small tasks 
+SPEAKER 1 0:18:59
+and try to do them in the free time. 
+SPEAKER 2 0:19:03
+Don't waste your time. Time is very precious for your career. 
+SPEAKER 1 0:19:07
+Do for your own and your own career. 
+SPEAKER 2 0:19:10
+Second one is set a time limit for every task. When you set a time limit for any task, it will help you to stay productive. And also, you will be in a time constraint. So you will complete in that particular time frame. You will not go anywhere. 
+SPEAKER 1 0:19:29
+You will complete it at any hour. 
+SPEAKER 2 0:19:34
+So also, and give at least one hour after your college 
+SPEAKER 1 0:19:40
+to your skill development. 
+SPEAKER 2 0:19:41
+You can either use your free time to learn, 
+SPEAKER 1 0:19:45
+or you can just utilize some time after your college. 
+SPEAKER 2 0:19:50
+Or you can just give yourself one hour every day 
+SPEAKER 1 0:19:53
+to your skill development. OK. Third one is to keep track of all your tasks. 
+SPEAKER 2 0:19:59
+You can set reminders of different tasks 
+SPEAKER 1 0:20:02
+you want to do in a day. Don't assign yourself too many tasks. 
+SPEAKER 2 0:20:07
+Assign such number of tasks that you can do it in a day. 
+SPEAKER 1 0:20:11
+Don't be too hard on yourself. Take it easy and start doing bit by bit. 
+SPEAKER 2 0:20:19
+So set reminders for the task so that you 
+SPEAKER 1 0:20:22
+can keep track of all the tasks. Then ask for help if needed. 
+SPEAKER 2 0:20:28
+Approach someone who is more experienced than you are. If you approach someone who is more experienced than you are, then he or she will tell you from her or his experience that I have done this, I have done this. So you will get insight, and you will get feedback how you can do it, and also where you are lagging 
+SPEAKER 1 0:20:47
+and where you have to improve. OK. 
+SPEAKER 2 0:20:51
+Now, fifth one is break large tasks into small ones 
+SPEAKER 1 0:20:55
+so that it will get easy for you to complete. 
+SPEAKER 2 0:20:59
+It's not that you have to finish full website landing page 
+SPEAKER 1 0:21:06
+in a day, like header to footer. No. You can assign yourself one section and start doing it. 
+SPEAKER 2 0:21:13
+Keep it simple and take it easy. 
+SPEAKER 1 0:21:15
+Give yourself some time to learn. Then sixth one is you can also use the checklist 
+SPEAKER 2 0:21:23
+to keep track of your tasks and lessons. 
+SPEAKER 1 0:21:25
+You can make a kind of a theme and just write all the tasks 
+SPEAKER 2 0:21:31
+that you have to do in a day and tick mark the task 
+SPEAKER 1 0:21:36
+when you complete it. 
+SPEAKER 2 0:21:38
+It will really increase your productivity, 
+SPEAKER 1 0:21:41
+and also you will stay motivated to do more. 
+SPEAKER 2 0:21:44
+Then practice regularly, like I said earlier. Practice regularly to enhance your UX, UI skills. 
+SPEAKER 1 0:21:52
+Practice is the key. Practice with consistency is the key to success in any field. Now, last one, believe in yourself. 
+SPEAKER 2 0:22:02
+Believe that you can do it. Do not doubt yourself. Stay confident. 
+SPEAKER 1 0:22:07
+If you doubt yourself, you can't do anything. 
+SPEAKER 2 0:22:10
+Always believe in yourself, like I can do this task. I can do it. I will be selected for this job. 
+SPEAKER 1 0:22:17
+I can do it. 
