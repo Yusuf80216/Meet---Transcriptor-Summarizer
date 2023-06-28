@@ -1,6 +1,7 @@
 # Virtual Meetings Summarizer
 In the work from home scenario prevailing over the last 18 months and with hybrid working picking steam, most Official meetings have been or will be conducted virtually. While MICROSOFT TEAMS / Google Meet / Zoom do provide a feature to download TRANSCRIPT, it does not summarise the meeting.
 
+
 #### Problem Dimensions :
 
 - Parse the Transcript to figure out many attendees were there in the meeting.
@@ -12,6 +13,13 @@ In the work from home scenario prevailing over the last 18 months and with hybri
 <br>
 <hr>
 
+## Website Installation :
+
+```js
+    cd website
+    npm install
+    npm start
+```
 ### Transcription Model :
 To run transcription generator file:
 ```
