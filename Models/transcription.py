@@ -68,7 +68,7 @@ import pandas as pd
 
 app = Flask(__name__)
 CORS(app)
-ngrok.set_auth_token("2MfxDmAOgKafHWpbMj6MASBZxGr_4LgejJ5sqYgLuDhUHGn4U")
+ngrok.set_auth_token("")   # ---> Add your Auth token string from this link - [https://dashboard.ngrok.com/get-started/your-authtoken]
 public_url = ngrok.connect(port_no).public_url
 
 translator = Translator()
