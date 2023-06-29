@@ -22,8 +22,10 @@ npm start
 ```
 ### Transcription Model :
 To run transcription generator file:
+
 ```
 cd Models
 pip install -r requirements.txt
 python transcription.py
 ```
+(PS: Before running this file, please check if you have CUDA & add your Auth Token String mentioned in the code)
