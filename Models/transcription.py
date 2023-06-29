@@ -38,7 +38,7 @@ if not os.path.exists(newpath):
 
 translator = Translator()
 embedding_model = PretrainedSpeakerEmbedding("speechbrain/spkrec-ecapa-voxceleb", device=torch.device("cuda")) 
-# If you have GPU enabled cuda, leave as it, otherwise set torch.device to "CPU"
+# If you have GPU enabled cuda, leave as it is, otherwise set torch.device to "CPU"
 
 def getpreferredencoding(do_setlocale = True):
     return "UTF-8"
