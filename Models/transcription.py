@@ -37,7 +37,8 @@ if not os.path.exists(newpath):
 
 
 translator = Translator()
-embedding_model = PretrainedSpeakerEmbedding("speechbrain/spkrec-ecapa-voxceleb", device=torch.device("cuda"))
+embedding_model = PretrainedSpeakerEmbedding("speechbrain/spkrec-ecapa-voxceleb", device=torch.device("cuda")) 
+# If you have GPU enabled cuda, leave as it is, otherwise set torch.device to "CPU"
 
 def getpreferredencoding(do_setlocale = True):
     return "UTF-8"
@@ -68,7 +69,7 @@ import pandas as pd
 
 app = Flask(__name__)
 CORS(app)
-ngrok.set_auth_token("2MfxDmAOgKafHWpbMj6MASBZxGr_4LgejJ5sqYgLuDhUHGn4U")
+ngrok.set_auth_token("")   # ---> Add your Auth token string from this link - [https://dashboard.ngrok.com/get-started/your-authtoken]
 public_url = ngrok.connect(port_no).public_url
 
 translator = Translator()

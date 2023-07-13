@@ -1,0 +1,12 @@
+1) create a slice for ur data 
+inside that , initialState is defined 
+and inside reducers , we create functions
+then from that slice , we get the actions ( cartSlice.actions )
+then export actions and reducers
+
+2) configure store
+3) add the provider in App.js and wrap everything 
+inside the Provider>
+
+
+TO GET DATA FROM STORE :    use :   useSelector
