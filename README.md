@@ -24,7 +24,7 @@ npm start
 To run transcription generator file:
 
 ```
-cd Models
+cd Models/Transcription
 pip install -r requirements.txt
 python transcription.py
 ```
