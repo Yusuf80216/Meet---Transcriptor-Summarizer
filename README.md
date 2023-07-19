@@ -29,3 +29,12 @@ pip install -r requirements.txt
 python transcription.py
 ```
 (PS: Before running this file, please check if you have CUDA and make necessary changes [line 40] & add your Auth Token String mentioned in the code [line 72])
+
+### Fetch Summary :
+To run Summary Fetcher file:
+
+```
+cd Retriever
+pip install -r requirements.txt
+python fetch_summaries.py
+```
