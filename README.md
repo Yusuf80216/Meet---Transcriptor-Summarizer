@@ -38,3 +38,12 @@ cd Retriever
 pip install -r requirements.txt
 python fetch_summaries.py
 ```
+
+## Contributors
+
+| Profile                                                  | Role |
+| :------------------------------------------------------- | :------- |
+| [Yusuf Ansari](https://github.com/Yusuf80216)           | ML/Backend Developer |
+| [Vrushali Chaudhari](https://github.com/Vrushali-anil-Chaudhari)           | ML/Backend Developer |
+| [Yash Kamble](https://github.com/yash-devop)           | Full Stack Developer |
+| [Khushi Sharma](https://github.com/khushishar)           | Backend Developer |
