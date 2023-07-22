@@ -24,8 +24,26 @@ npm start
 To run transcription generator file:
 
 ```
-cd Models
+cd Models/Transcription
 pip install -r requirements.txt
 python transcription.py
 ```
 (PS: Before running this file, please check if you have CUDA and make necessary changes [line 40] & add your Auth Token String mentioned in the code [line 72])
+
+### Fetch Summary :
+To run Summary Fetcher file:
+
+```
+cd Retriever
+pip install -r requirements.txt
+python fetch_summaries.py
+```
+
+## Contributors
+
+| Profile                                                  | Role |
+| :------------------------------------------------------- | :------- |
+| [Yusuf Ansari](https://github.com/Yusuf80216)           | ML/Backend Developer |
+| [Vrushali Chaudhari](https://github.com/Vrushali-anil-Chaudhari)           | ML/Backend Developer |
+| [Yash Kamble](https://github.com/yash-devop)           | Full Stack Developer |
+| [Khushi Sharma](https://github.com/khushishar)           | Backend Developer |
