@@ -39,20 +39,14 @@ pip install -r requirements.txt
 python fetch_summaries.py
 ```
 
-### Sidebar :
-To run sidebar file:
+### API Endpoints
+### The SummaryPage API provides the following endpoints:
+
 ```
-cd Sidebar
-pip install -r requirements.txt
-python sidebar.py
+/sidebar: Use this endpoint to generate items in the sidebar such as action items, talk time, speaker names, etc.
+/details: To generate user details.
 ```
-### Transcript Details:
-To run transcript_details_api file:
-```
-cd Sidebar
-pip install -r requirements.txt
-python transcript_details_api.py
-```
+
 
 
 ## Contributors
