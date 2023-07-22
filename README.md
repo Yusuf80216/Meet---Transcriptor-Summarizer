@@ -39,6 +39,22 @@ pip install -r requirements.txt
 python fetch_summaries.py
 ```
 
+### Sidebar :
+To run sidebar file:
+```
+cd Sidebar
+pip install -r requirements.txt
+python sidebar.py
+```
+### Transcript Details:
+To run transcript_details_api file:
+```
+cd Sidebar
+pip install -r requirements.txt
+python transcript_details_api.py
+```
+
+
 ## Contributors
 
 | Profile                                                  | Role |
